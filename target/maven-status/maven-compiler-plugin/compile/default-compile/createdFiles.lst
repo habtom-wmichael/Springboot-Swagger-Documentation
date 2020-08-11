@@ -1,0 +1,4 @@
+com/me/sbapp/swaggerspringboot/models/Contact.class
+com/me/sbapp/swaggerspringboot/config/SpringFoxConfig.class
+com/me/sbapp/swaggerspringboot/controllers/AddressBookController.class
+com/me/sbapp/swaggerspringboot/SwaggerSpringBootApplication.class
