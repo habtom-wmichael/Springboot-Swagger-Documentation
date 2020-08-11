@@ -32,7 +32,7 @@ public class SpringFoxConfig {
                 "Terms of service",
                "Habtom-wmichael",
                 "Apache License Version 2.0",
-                "https://github.com/habtom-wmichael/Springboot-Swagger-Documentation");
+                "https://github.com/habtom-wmichael/Springboot-Swagger-Documentation ");
         return apiInfo;
     }
 
