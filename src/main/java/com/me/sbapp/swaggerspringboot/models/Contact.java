@@ -25,6 +25,12 @@ public  class Contact {
     public Contact() {
     }
 
+    public Contact(String id, String name, String phone) {
+        this.id = id;
+        this.name = name;
+        this.phone = phone;
+    }
+
     public  String  getId() {
 
 
